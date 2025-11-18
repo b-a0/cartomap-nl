@@ -10,7 +10,7 @@ Er worden twee projecties aangeboden, die voor de meeste toepassingen voldoen:
  
 - de map `rd` (EPSG:28992) bevat rijkdriehoekstelsprojecties, dat is de standaard kaartprojectie voor NL.
 - de map `wgs84` (EPSG:4326) bevat de standaardprojectie voor Webcartografie zoals Google Maps, Bing maps, Leaflet, Open street map en andere. 
-
+ 
 ## Formaten
 
 De kaarten zijn beschikbaar in twee formaten:
