@@ -2,7 +2,7 @@
 
 SHAPESTXT=`ls ./build/toc/shapes*.txt`
 TYPES=`cat $SHAPESTXT | sort | uniq | sed 's/_gegeneraliseerd//'`
-BASEURL="https://cartomap.github.io/nl"
+BASEURL="https://b-a0.github.io/cartomap-nl"
 
 function create_record(){
   declare shapes=$1
